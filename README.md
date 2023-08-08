@@ -282,23 +282,3 @@ Before running benchmark, make sure to have built the source code with `npm run 
 ```sh
 npm run bench
 ```
-
-## Contributing
-
-I would greatly appreciate any contributions to make this project better. Please make sure to follow the below guidelines before getting your hands dirty.
-
-1. Fork the repository
-2. Create your branch (git checkout -b my-branch)
-3. Commit any changes to your branch
-4. Push your changes to your remote branch
-5. Open a pull request
-
-## Donation
-
-If this project help you reduce time to develop, you can give me a cup of coffee 🍵 :)
-
-ETH: `0xEE45AA08D65352d49344f42d9E0EAf14AA3D812d`
-
-## License
-
-Copyright [Andrea Fassina](https://github.com/fasenderos), Licensed under [MIT](LICENSE).
