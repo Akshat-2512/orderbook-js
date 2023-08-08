@@ -1,17 +1,9 @@
 {
   "name": "hft-limit-order-book",
-  "version": "2.3.2",
+  "version": "1.0.0",
   "description": "Node.js Lmit Order Book for high-frequency trading (HFT).",
-  "author": "Andrea Fassina <andrea.fassina82@gmail.com>",
+  "author": "akshat agarwal",
   "license": "MIT",
-  "homepage": "https://github.com/fasenderos/hft-limit-order-book",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:fasenderos/hft-limit-order-book.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fasenderos/hft-limit-order-book/issues"
-  },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "umd:main": "dist/umd/index.js",
